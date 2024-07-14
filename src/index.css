@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body{
+  background: linear-gradient(rgb(0,0,0,0.3),rgb(0,0,0,0.1)),url(../public/mountain.jpg);
+  width: 100%;height: 660px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: #fff ;
+  font-family: 'Poppins', sans-serif ;
+  background-attachment: fixed;
+}
